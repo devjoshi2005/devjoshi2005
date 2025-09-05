@@ -5,7 +5,7 @@
 I'm Dev Joshi , A 20 year old engineering student working on to get into cloud security role ☁️ 🛡️
 
 ## Proficient in 
-- AWS & AZURE (implementing cloud services) | python (automating repetitive security tasks) | terraform (for Infrastructure as Code) | C (for code analysis)
+- AWS,AZURE & GCP (implementing cloud services) | python (automating repetitive security tasks) | terraform (for Infrastructure as Code) | sonarqube,trivy,n8n
 
 Proficient in implementing cloud security services related to :- 
 

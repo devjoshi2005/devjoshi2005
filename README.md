@@ -17,7 +17,7 @@ Knows little bit of penetration testing stuff ⚔️ with hands on experience wi
 
 ## CyberSecurity Projects :-
 1) DevSecOps Container Remediation Project - https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project
-2) Google Cloud Security Environment - [https://github.com/devjoshi2005/GCP-Cloud-Security-Practicum](https://github.com/devjoshi2005/Google-Cloud-Security-Environment)
+2) Google Cloud Security Environment - https://github.com/devjoshi2005/Google-Cloud-Security-Environment
 
 ## Currently Working on projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
 

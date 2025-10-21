@@ -16,7 +16,7 @@ Knows little bit of penetration testing stuff ⚔️ with hands on experience wi
 - nmap | burpsuite | metasploit | wireshark | hydra | SQLMap
 
 ## CyberSecurity Projects :-
-https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project
+1) DevSecOps Container Remediation Project - https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project
 
 ## Currently Working on projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
 

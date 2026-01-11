@@ -2,10 +2,10 @@
 
 ## Hi there 👋 Glad to see you here
 
-I'm Dev Joshi , A 20 year old engineering student working on to get into cloud security role ☁️ 🛡️
+I'm Dev Joshi , A 20 year old engineering student working on to get into cyber/cloud security role ☁️ 🛡️
 
 ## Proficient in 
-- AWS,AZURE & GCP (implementing cloud services) | python (automating repetitive security tasks) | terraform (for Infrastructure as Code) | Sonarqube,Trivy and N8N
+- AWS,AZURE & GCP (implementing cloud services) | python (automation of security tasks) | terraform (for Infrastructure as Code) | Sonarqube,Trivy,LlamaIndex,ChromaDB (for DevSecOps) | Prowler,SteamPipe,Rego,Streamlit & PyFair (GRC Related)
 
 Proficient in implementing cloud security services related to :- 
 

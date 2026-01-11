@@ -5,7 +5,7 @@
 I'm Dev Joshi , A 20 year old engineering student working on to get into cyber/cloud security role ☁️ 🛡️
 
 ## Proficient in 
-- AWS,AZURE & GCP (implementing cloud services) | python (automation of security tasks) | terraform (for Infrastructure as Code) | Sonarqube,Trivy,LlamaIndex,ChromaDB (for DevSecOps) | Prowler,SteamPipe,Rego,Streamlit & PyFair (GRC Related)
+- AWS,AZURE & GCP (implementing cloud services) | Python (automation of security tasks) | Terraform (Infrastructure as a Code) | Sonarqube,Trivy,LlamaIndex,ChromaDB (for DevSecOps) | Prowler,SteamPipe,Rego,Streamlit & PyFair (GRC Related)
 
 Proficient in implementing cloud security services related to :- 
 
@@ -20,7 +20,7 @@ Knows little bit of penetration testing stuff ⚔️ with hands on experience wi
 2) Google Cloud Security Environment - https://github.com/devjoshi2005/Google-Cloud-Security-Environment
 3) Multi Cloud (AWS & Azure) GRC Compliance & Remediation Engine - https://github.com/devjoshi2005/Grc-Compliance-Engine
 
-## Currently Working on projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
+## Currently Working on more projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
 
 For hobbies - Travelling ⛰️ | Listening to music 🎧 | Watching movies 📺
 Also, like to participate for events like hackathons 💻,CTF's 🚩 and more... 😏 😄 👌

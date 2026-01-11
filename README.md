@@ -18,6 +18,7 @@ Knows little bit of penetration testing stuff ⚔️ with hands on experience wi
 ## CyberSecurity Projects :-
 1) DevSecOps Container Remediation Project using AWS Inspector - https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project
 2) Google Cloud Security Environment - https://github.com/devjoshi2005/Google-Cloud-Security-Environment
+3) Multi Cloud (AWS & Azure) GRC Compliance & Remediation Engine - https://github.com/devjoshi2005/Grc-Compliance-Engine
 
 ## Currently Working on projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
 

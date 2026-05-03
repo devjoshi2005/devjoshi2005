@@ -1,29 +1,37 @@
 
 
-## Hi there 👋 Glad to see you here
+# Dev Joshi — Cloud Security & GRC Engineering
 
-I'm Dev Joshi , A 20 year old engineering student working on to get into cyber/cloud security role ☁️ 🛡️
+Security engineer focused on automating compliance, 
+detection, and AI pipeline security.
+Building tools that close the gap between finding 
+vulnerabilities and fixing them.
 
-## Proficient in 
-- AWS,AZURE & GCP (implementing cloud services) | Python (automation of security tasks) | Terraform (Infrastructure as a Code) | Sonarqube,Trivy,LlamaIndex,ChromaDB (for DevSecOps) | Prowler,SteamPipe,Rego,Streamlit & PyFair (GRC Related) | Neo4j,grafana,prometheus (for data visualization)
+## What I Build :-
+1) [DevSecOps Container Remediation Project using AWS Inspector](https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project) - 6-layer security gate: OWASP ZAP → SonarQube → Trivy → Claude Sonnet on Bedrock for AI-generated PR fixes.
+2) [Multi Cloud (AWS & Azure) GRC Automation Engine](https://github.com/devjoshi2005/Grc-Compliance-Engine) - Scans AWS + Azure against 94 CIS benchmarks, generates Terraform remediation via GPT-4, quantifies risk using FAIR methodology. Cut audit prep from weeks to hours.
+3) [ResilienceOps - Cloud Native SOAR Engine](https://github.com/devjoshi2005/ResilienceOps) - GuardDuty + CloudTrail ingestion,Isolation Forest anomaly detection, Neo4j attack path mapping, OPA-validated auto remediation. 60-second response time
+4) [Google Cloud Security Environment](https://github.com/devjoshi2005/Google-Cloud-Security-Environment) - a environment covering 20+ architectures including IAM, GKE RBAC, Cloud Armor, and KMS
 
-Proficient in implementing cloud security services related to :- 
+## Current Stack 
 
-- Secure Access Management | Identity Protection and Governance | Platform Protection | Securing of Applications | Data Security (at rest & at transit) | managing security operations (SIEM & SOAR)
+`Python` | `AWS` | `Azure` | `GCP` | `LlamaIndex` | `Terraform` | `Docker` | `GitHub Actions` | `Sqlite` | `Neo4j` | `ChromaDB` | `Streamlit` | `OPA/Rego` 
 
-Knows little bit of penetration testing stuff ⚔️ with hands on experience with tools like ....
+## Certifications
 
-- nmap | burpsuite | metasploit | wireshark | hydra | SQLMap
+AZ-500 · Google Cloud Security Engineer & Google Cybersecurity Specialization · IBM AppSec ·  
+AWS Fundamentals · Python for Cybersecurity
 
-## CyberSecurity Projects :-
-1) DevSecOps Container Remediation Project using AWS Inspector - https://github.com/devjoshi2005/DevSecOps-Container-Remediation-Project
-2) Google Cloud Security Environment - https://github.com/devjoshi2005/Google-Cloud-Security-Environment
-3) Multi Cloud (AWS & Azure) GRC Compliance & Remediation Engine - https://github.com/devjoshi2005/Grc-Compliance-Engine
-4) ResilienceOps - Cloud Native Incident Response Engine - https://github.com/devjoshi2005/ResilienceOps
+## Currently
 
-## Currently Working on more projects related to blue team defensive cloud security environments ☁️ ... feel free to ask , im glad that i can help 
+→ Building a AI agent security scanner
+→ Open to security engineering roles and short-term project engagements in GRC, cloud security, and AI pipeline security
 
-For hobbies - Travelling ⛰️ | Listening to music 🎧 | Watching movies 📺
-Also, like to participate for events like hackathons 💻,CTF's 🚩 and more... 😏 😄 👌
+## For hobbies
+→ Travelling,Listening to music & Watching movies and also like to participate for events like hackathons 💻 and more...
+
+## Contact
+[LinkedIn](https://linkedin.com/in/devjoshi2005)
+[Portfolio](https://devvjoshi.vercel.app) 
 
 

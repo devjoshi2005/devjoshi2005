@@ -7,7 +7,7 @@ Security-minded software engineer specializing in automated cloud security, appl
 
 ---
 
-## ⚡ Core Systems & Security Projects
+## Core Systems & Security Projects
 
 ### [AuthMap — Cloud IAM Attack-Path & Graph ML Analyzer](https://github.com/devjoshi2005/AuthMap)
 *Engineered a multi-cloud IAM attack path analyzer using FastAPI, Neo4j, and Node2Vec anomaly detection.*

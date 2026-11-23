@@ -1,7 +1,7 @@
 # Dev Joshi
 
 **Cloud Security, FDE & Full Stack Engineer**  
-Chennai, India • [LinkedIn](https://linkedin.com/in/devjoshi2005) • [Portfolio](https://devvjoshi.vercel.app) 
+Chennai, India • [LinkedIn](https://linkedin.com/in/devjoshi2005) • [Portfolio](https://devvjoshi.com) 
 
 Computer Science & Engineering undergraduate (Anna University, 2023–2027) building high-throughput backend systems, cloud IAM/GRC tooling, and MCP-gated AI security workflows across AWS, GCP, and Azure. Contributor to Open Policy Agent (OPA) and experienced in production observability and scoped engineering sprints.
 

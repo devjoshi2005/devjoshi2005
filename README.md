@@ -10,10 +10,11 @@ Computer Science & Engineering undergraduate (Anna University, 2023–2027) buil
 ## Core Systems & Security Projects
 
 ### [Multi-Cloud GRC Compliance & Remediation Engine](https://github.com/devjoshi2005/Grc-Compliance-Engine)
-*Automated compliance mapping, FAIR risk quantification, and policy-gated Terraform remediation.*
-- Covers **232 controls** across SOC 2, ISO 27001:2022, and NIST CSF 2.0 with **93.3% Recall@5** and **94.0% page-hit@5** over 150 real-PDF queries, plus **56.0% top-3 framework mapping** across 384 Prowler-derived checks at **7.27 ms/finding**.
-- Shipped a read-only **MCP remediation server** with retrieval, control mapping, citation grounding, **OPA policy checks**, and fail-closed Terraform validation (`4` tools, `3` resources, `53` passing tests, and `20/20` AWS/Azure patches validated identically across deterministic runs).
-- Integrates **FAIR (ALE)** financial risk modeling alongside automated remediation workflows to cut compliance triage from **30 → 6 minutes per finding (80% reduction)**.
+*Automated compliance mapping, FAIR financial risk quantification, and policy-gated MCP remediation.*
+- Covers **232 controls** across SOC 2, ISO 27001:2022, and NIST CSF 2.0, achieving **93.3% Recall@5** and **94.0% page-hit@5** across 150 real-PDF queries plus **56.0% top-3 framework mapping** over 384 Prowler-derived checks at **7.27 ms/finding**.
+- Built a read-only **MCP remediation server** exposing **4 tools** and **3 resources** for retrieval, control mapping, and optional GPT-5-nano patch synthesis, backed by **53 passing tests**.
+- Enforced **OPA policy checks**, citation grounding, and fail-closed Terraform validation, achieving **20/20** AWS/Azure remediation patches validated identically across deterministic runs and integrates **FAIR (ALE)** financial risk scoring to cut compliance triage from **30 → 6 minutes per finding (80% reduction)**.
+
 
 ### [AuthMap — Cloud IAM Attack-Path & Graph ML Analyzer](https://github.com/devjoshi2005/AuthMap)
 *Multi-cloud IAM attack path analyzer using FastAPI, Neo4j, and graph anomaly detection.*
